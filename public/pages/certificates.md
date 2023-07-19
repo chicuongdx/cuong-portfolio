@@ -1,2 +1,2 @@
 # 🥇 Certificates
-- Certified Public Accountant (Taiwan)
+- Coursera - Computation Thinking for Problem Solving

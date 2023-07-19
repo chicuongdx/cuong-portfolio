@@ -1,3 +1,3 @@
 # 💬 Languages
-**English**: C1
-**Chinese**: Native
+**English**: TOEIC 990/990
+**Vietnamese**: Native
