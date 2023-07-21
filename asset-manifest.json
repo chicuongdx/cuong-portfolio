@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/cuong-portfolio/static/js/main.6cdc34c5.js",
+    "main.js": "/cuong-portfolio/static/js/main.a7d7d63e.js",
     "static/js/787.df5e1d3a.chunk.js": "/cuong-portfolio/static/js/787.df5e1d3a.chunk.js",
-    "static/media/favicon.png": "/cuong-portfolio/static/media/favicon.898815204b533b2a2186.png",
+    "static/media/favicon.png": "/cuong-portfolio/static/media/favicon.6989a05d34492bac5a0c.png",
     "index.html": "/cuong-portfolio/index.html",
-    "main.6cdc34c5.js.map": "/cuong-portfolio/static/js/main.6cdc34c5.js.map",
+    "main.a7d7d63e.js.map": "/cuong-portfolio/static/js/main.a7d7d63e.js.map",
     "787.df5e1d3a.chunk.js.map": "/cuong-portfolio/static/js/787.df5e1d3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6cdc34c5.js"
+    "static/js/main.a7d7d63e.js"
   ]
 }
